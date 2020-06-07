@@ -1,0 +1,10 @@
+baseURL = "https://blog.jino.net"
+languageCode = "kr-ko"
+title = "$HELLO_PROG^"
+theme = "hugo-hello-programmer-theme"
+
+paginate = 7
+
+[author]
+    name = "jinho"
+    email = "gino9940@gmail.com"
